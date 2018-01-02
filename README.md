@@ -1,6 +1,6 @@
 ### 2018 Goals Achievement
 
- - To be a full stack javascript developer 
+ - To be a full stack web javascript developer 
  - Improve my english skills
  - Improve my self learning skills
  - To be a full time freelancer  
