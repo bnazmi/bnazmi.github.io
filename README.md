@@ -4,3 +4,5 @@
  - Improve my english skills
  - Improve my self learning skills
  - To be a full time freelancer  
+ - Learn more about Digital Marketing
+ - Improve my Typing Skills on keyboard [https://www.typing.com/]
