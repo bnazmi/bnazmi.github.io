@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #e2dcdc;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 200%;
+    padding: 20px;
+}
+
+p {
+    width: 80%;
+    padding: 30px;
+    background: #fff;
+    border-radius: 20px;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 20px;
+}
