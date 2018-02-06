@@ -6,20 +6,76 @@ body {
     background: #e2dcdc;
     font-size: 24px;
 }
-
-h2 {
-    text-align: center;
-    font-size: 200%;
-    padding: 20px;
+a {
+    text-decoration: none;
+}
+nav {
+    background: #fff;
+    width: 25%;
+    border-right: 1px solid #000;
+    position: fixed;
+    display: block;
+    float: left;
+    height: 100vh;
 }
 
-p {
-    width: 80%;
-    padding: 30px;
-    background: #fff;
-    border-radius: 20px;
-    margin-left: 10%;
+
+.me img {
+    width: 200px;
+    border-radius: 50%;
+    margin: 5px 0 5px 18%;
+    border: 2px solid #984428;
+}
+
+.me h1 {
     text-align: center;
-    font-size: 200%;
-    margin-bottom: 20px;
+}
+
+.me h2 {
+    font-size: 60%;
+    text-align: center;
+    padding: 15px 0;
+}
+.icon::after{
+    display: block;
+    height: 2px;
+    width: 100px;
+    margin: 15px auto;
+    background: #999;
+    content: " ";
+    
+
+}
+
+nav ul li {
+    padding: 8px 90px;
+    border-left: 5px solid #984428;
+    margin: 2px 0;
+    text-align: center;
+}
+
+nav ul li:hover {
+background: #98442860;
+}
+
+
+.content {
+    width: 75%;
+    display: block;
+    float: right;
+}
+
+.icon img {
+    width: 32px;
+    margin: 0;
+    border-radius: 0;
+}
+.icon {
+    font-size: 35px;
+}
+
+.icon i {
+    margin: 0 15px 0 15px;
+    color: #984428;
+    
 }
