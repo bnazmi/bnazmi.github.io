@@ -2,10 +2,19 @@
     padding: 0;
     margin: 0;
 }
+
+.row {
+    max-width: 1024px;
+    padding: 20px;
+}
+
 body {
     background: #e2dcdc;
-    font-size: 24px;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    
 }
+
 a {
     text-decoration: none;
 }
@@ -78,4 +87,32 @@ background: #98442860;
     margin: 0 15px 0 15px;
     color: #984428;
     
+}
+
+
+.experince {
+    width: 60%;
+    float: left;
+}
+
+.protofolio {
+    margin-left: 30px;
+}
+
+.project {
+    width: 32%;
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.project img {
+    width: 100%;
+    
+}
+
+blockquote {
+    display: block;    
+    width: 50%;
+    float: left;
 }
